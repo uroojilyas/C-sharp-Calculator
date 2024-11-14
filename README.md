@@ -1,0 +1,1 @@
+A simple calculator application built with C# and Windows Forms. This calculator supports basic mathematical operations, as well as functions like square root, square, pi, modulus, factorial, and a real-time clock display.
